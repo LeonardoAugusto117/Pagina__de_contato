@@ -11,7 +11,8 @@ Este projeto é uma aplicação web desenvolvida em HTML/CSS simples, que trata 
 
 * HTML - Linguagem de marcação.
 * CSS - Linguagem de estilização.
-
+* JavaScript (para funcionalidades dinâmicas)
+* Ionicons Para ícones interativos e dinâmicos no design da página.
 
 *Funcionalidades:
 
